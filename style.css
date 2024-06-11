@@ -1,0 +1,39 @@
+@media screen and (max-width: 600px) {
+    body { background-color: rgb(25, 123, 156);
+    }
+  }
+
+
+
+body {background-color: rgb(56, 219, 151);
+}
+.p1 {text-align:right;
+}
+
+.p1 {border-color: black;
+border-width: 5px;
+border-style: double;
+}
+
+.p1 {margin-left: 20%;
+margin-right: 30%;
+padding-left: 7cm;
+padding-top: 15%;
+background-color: rgb(34, 9, 58);
+
+}
+.p2 {text-align:right;
+}
+
+.p2 {border-color: black;
+border-width: 5px;
+border-style: double;
+}
+
+.p2 {margin-left: 40%;
+margin-right: 30%;
+padding-left: 13%;
+padding-top: 12%;
+background-color: rgb(199, 12, 105);
+
+}
